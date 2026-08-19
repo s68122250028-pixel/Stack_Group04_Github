@@ -1,6 +1,6 @@
 # Group Members
 
-| No. | Name | Student ID | Role |
+| No | Name | Student ID | Role |
 |---:|---|---|---|
 | 1 | นายกษิดิศ อุ่นอำไพ | 68122250028 | Presentation  |
 | 2 | นางสาวน้ำผึ้ง เอียดวงศ์ | 68122250031 | Report |
